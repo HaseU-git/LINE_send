@@ -49,7 +49,13 @@ pip install -r src/requirements.txt
 <img width="827" alt="Screenshot 2023-10-22 at 0 58 24" src="https://github.com/HaseU-git/LINE_send/assets/64348058/8eff13ac-901f-4871-807b-1f0fb18768ee">
 
 
-## 送信内容設定
+
+## アプリ使用方法
+アプリのアイコンを設定する
+<img width="377" alt="Screenshot 2023-10-22 at 1 07 10" src="https://github.com/HaseU-git/LINE_send/assets/64348058/f92c0707-eb0e-4ccb-8107-1a1fa0af9ec1">
+
+
+`LINE一斉送信.command`をダブルクリックして起動するイメージ。
 
 改行文字を元にリストを作成しているので、エクセルで縦に並べたものをコピペしてくるイメージ。
 <img width="395" alt="Screenshot 2023-10-22 at 1 03 26" src="https://github.com/HaseU-git/LINE_send/assets/64348058/e7c7f11b-7591-48eb-8ee9-40d3c58b9ffc">
