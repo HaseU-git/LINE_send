@@ -19,6 +19,22 @@ search_coordinate = [138, 54]
 select_coordinate = [167, 138]
 chat_coordinate = [896, 519]
 
+## 以下に送信内容を設定する
+friend_list = [
+        "友達の名前1",
+        "友達の名前2"
+]
+
+message_list = [
+        "テストメッセージ1",
+        "テストメッセージ2"
+]
+
+image_list = [
+        "photo_to_send.jpeg",
+        "photo_to_send.jpeg"
+]
+
 
 # 現在のマウスの座標を取得する
 print(pyautogui.position())
@@ -150,21 +166,6 @@ def send_message(person_name: str, message_to_send:str):
 
 
 ## 以下に友達の名前とメッセージの内容を記載する（基本的には、エクセルからのコピペを想定している）
-
-friend_list = [
-        "友達の名前1",
-        "友達の名前2"
-]
-
-message_list = [
-        "テストメッセージ1",
-        "テストメッセージ2"
-]
-
-image_list = [
-        "photo_to_send.jpeg",
-        "photo_to_send.jpeg"
-]
 
 launch_line()
 
