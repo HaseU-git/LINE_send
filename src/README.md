@@ -3,6 +3,7 @@
 ## 動作環境
 * MacOS
 * Alfred 4.6.2
+* Shiftlt App 1.6.6
 * Python 3.9.7
 * LINE ver 7.7.0.2698
 * pyperclip 1.8.2
